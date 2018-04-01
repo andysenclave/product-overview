@@ -1,6 +1,6 @@
 {
   "name": "product-overview",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A MERN stack app built with Redux architecture in the front-end to display products and their details.",
   "main": "server/index.js",
   "scripts": {
